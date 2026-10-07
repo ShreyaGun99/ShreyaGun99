@@ -1,7 +1,7 @@
 ## Hi there ### 👋 I'm Shreya Gunjal
 
-Aspiring Data Analyst | Ex-biochemist turned data storyteller  
-Skilled in Python, SQL, Power BI, Tableau, and Excel  
+I’m a Data Analyst with professional experience in MIS, process and performance analytics, with hands-on experience in analytics, dashboard development, MIS reporting, and data-driven performance management.
+My technical toolkit includes Python, SQL, Power BI, Tableau, and Advanced Excel, with hands-on experience in data cleaning and preprocessing, statistical analysis, predictive modelling, machine learning, and data visualization. 
 Currently interning and working on real-world analytics projects
 
 ---
@@ -10,8 +10,8 @@ Currently interning and working on real-world analytics projects
 - Python, SQL, Excel  
 - Power BI, Tableau  
 - Git, Jupyter, Colab 👋
-- 🌱 Currently learning Python AI/ML and R-Programming
+- 🌱 Currently learning Python AI/ML
 - 👯 I’m looking to collaborate on any real life data analytics projects
-- 📫 How to reach me: https://www.linkedin.com/in/shreya-gunjal2007/
+- 📫 How to reach me: www.linkedin.com/in/shreya-gun99/
 - ⚡ Fun fact: Life Sciences to Data Analytics transition
 
